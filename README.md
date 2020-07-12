@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-// Please check http://maniacal-flowers.surge.sh/ for live  demo
+Please check http://maniacal-flowers.surge.sh/ for live  demo
 
 ### `npm start`
 
